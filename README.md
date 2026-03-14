@@ -11,5 +11,5 @@
  - cat = Get-Content
 
 **Les commandes utilisées sur PowerShell sont les suivantes** :
- - Get-Help 'nom_de_l'alias'
- - Get-Alias 'nom_de_l'alias'
+ - Get-Help 'nom_de_l'alias' _Exemple : Get-Help cp_
+ - Get-Alias 'nom_de_l'alias' _Exemple : Get-Alias history_
